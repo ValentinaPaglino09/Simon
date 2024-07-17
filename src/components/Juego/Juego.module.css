@@ -3,3 +3,19 @@
     grid-template-columns: 160px 160px;
     
 }
+
+.empezar {
+    width: 310px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.empezar:hover {
+    cursor: pointer;
+    background-color: rgb(82, 82, 82);
+}
